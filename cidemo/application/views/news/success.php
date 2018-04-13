@@ -1,0 +1,3 @@
+Success!<?php
+echo "Success!";
+?>
